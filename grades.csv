@@ -1,0 +1,10 @@
+id,user_id,course_name,grade
+1,1,Big data,86
+2,1,Robotics,91
+3,1,Database,76
+4,2,Database,87
+5,3,Database,64
+6,3,Robotics,74
+7,2,Big data,69
+8,2,Robotics,66
+9,3,Big data,90

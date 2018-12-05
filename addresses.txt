@@ -1,0 +1,4 @@
+user_id,house_no,city,region
+1,394,Adigrat,Tigray
+2,485,Bahirdar,Amhara
+3,231,Addis Ababa,Addis Ababa
